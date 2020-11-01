@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1>GIKI</h1>
+      <h3>Course: DevOps</h3>
+      <h3>Assignment</h3>
     </div>
   );
 }
