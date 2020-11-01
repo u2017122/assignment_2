@@ -2,7 +2,7 @@
   "homepage": "https://u2017122.github.io/assignment_2/",
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
