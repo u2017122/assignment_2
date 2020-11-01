@@ -32,9 +32,9 @@ jobs:
       working-directory: my-app 
     - name: Deploy
       run: |
-        git config --global user.name $u2017122
-        git config --global user.email $u2017122@giki.edu.pk
-        git remote set-url origin https://${425c8a848f3d086052239156c18fb3909039e666}@github.com/${assignment_2}
+        git config --global user.name u2017122
+        git config --global user.email u2017122@giki.edu.pk
+        git remote set-url origin https://{425c8a848f3d086052239156c18fb3909039e666}@github.com/{assignment_2}
         npm run deploy
       env:
         user_name: 'github-actions[bot]'
