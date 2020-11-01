@@ -30,3 +30,9 @@ jobs:
       working-directory: my-app 
     - run: npm test
       working-directory: my-app 
+    - name: Deploy to GH Pages
+      run: |
+        git config --global user.email "u2017122@giki.edu.pk"
+        git config --global user.name "u2017122"
+        git remote set-url origin https://425c8a848f3d086052239156c18fb3909039e666@github.com/u2017122/assignment_2.git
+        npm run deploy
