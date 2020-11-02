@@ -23,6 +23,7 @@ function App() {
       <h3>Assignment No: 2</h3>
       <h3>Name: Gulfam Hussain</h3>
       <h3>Reg No: 2017122</h3>
+    <h3>Reg No: 2017122</h3>
     </div>
   );
 }
