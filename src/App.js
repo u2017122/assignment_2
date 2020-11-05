@@ -20,7 +20,7 @@ function App() {
       </header>
       <h1>GIKI</h1>
       <h3>Course: DevOps</h3>
-      <h3>Assignment No: 2</h3>
+      <h3>Assignment No: 3</h3>
       <h3>Name: Gulfam Hussain</h3>
       <h3>Reg No: 2017122</h3>
     </div>
